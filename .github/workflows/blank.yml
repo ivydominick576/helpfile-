@@ -1,0 +1,21 @@
+.NET GUI XPTABLE Assembly.au3 (478) : ==> COM Error intercepted !
+    err.number is:         0x000000A9
+    err.windescription:    Variable must be of type 'Object'.
+    err.description is:     
+    err.source is:         
+    err.helpfile is:     
+    err.helpcontext is:     
+    err.lastdllerror is:     0
+    err.scriptline is:     478
+    err.retcode is:     0x00000000
+
+.NET GUI XPTABLE Assembly.au3 (478) : ==> COM Error intercepted !
+    err.number is:         0x000000A9
+    err.windescription:    Variable must be of type 'Object'.
+    err.description is:     
+    err.source is:         
+    err.helpfile is:     
+    err.helpcontext is:     
+    err.lastdllerror is:     0
+    err.scriptline is:     478
+    err.retcode is:     0x00000000
